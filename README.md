@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="source/banner.jpg" alt="Profile Banner" width="100%">
-</div>
+![Profile Banner](source/banner.jpg)
 
 # Hi there 👋
 
