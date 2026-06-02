@@ -1,12 +1,10 @@
+<div align="center">
+  <img src="source/banner.jpg" alt="Profile Banner" width="100%">
+</div>
+
 # Hi there 👋
 
 I'm a **Frontend Developer** passionate about building beautiful and efficient web applications.
-
----
-
-## About Me
-
-Frontend developer focused on creating clean, user-friendly interfaces with modern technologies. I love working with TypeScript and exploring the latest web development trends.
 
 ---
 
