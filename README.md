@@ -38,12 +38,6 @@ Check out my [GitHub repositories](https://github.com/a000011) to see what else 
 
 ---
 
-## Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=a000011&show_icons=true&theme=nord&count_private=true)
-
----
-
 ## Connect with Me
 
 - 💙 [VK](https://vk.com/antoshechka220)
